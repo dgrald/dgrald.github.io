@@ -1,12 +1,10 @@
 # SITE CONFIGURATION
 title: Dylan Grald
 email: grald.dylan@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-
-Dylan Grald
+description: Dylan Grald
 
 url: dgrald.github.io
-baseurl: /dgrald.github.io
+baseurl: /
 github_username:  dgrald
 
 
