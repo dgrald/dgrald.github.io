@@ -1,35 +1,40 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+title: Dylan Grald
+email: grald.dylan@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+
+Dylan Grald
+
+url: dgrald.github.io
+baseurl: /dgrald.github.io
+github_username:  dgrald
+
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Type Theme
-  avatar: assets/img/avatar.png
+  avatar: assets/img/ski.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Website for Dylan Grald" 
 
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text: Dylan Grald
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "grald.dylan@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "dgrald"
   gitter:
   google_plus:
   instagram:
@@ -45,7 +50,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-157611341-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   search: false # Enable the search feature
