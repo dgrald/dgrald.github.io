@@ -2,11 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/snowbird.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm a 29 year old software engineer with 6+ years of professional software development experience. I work as a software consultant and am a co-founder at <a href="https://info.dtxintelligence.com">DTx Intelligence</a>. I'm interested in learning new skills and transitioning more into research software development.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+In particular, I've been interested in high performance computing and test-driven development. For back-end development, I predominately employ Scala/Play and Python/AWS Lambdas/Serverless, but I have professional software experience in many other languages and frameworks: C#, Java, Groovy, JavaScript, Django, etc.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+In the winter, I spend my weekends telemark skiing. In the summer, I mountain bike and climb. I have a fondness for the granite slabs in Squamish, BC.
+
+![Skiing at Crystal Mountain](/assets/img/ski.png)
