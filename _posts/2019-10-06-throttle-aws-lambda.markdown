@@ -66,6 +66,3 @@ for record in event['Records']:
 ```
 
 This creates a recursive call to the consumer, which is something that AWS discourages because it could incur large compute costs if there are problems in the recursive logic. Additional constraints could be placed to prevent too many recursive calls, such as a `count` field on the queued item that keeps track of the number of times that the item has been re-queued.
-
-\
-
